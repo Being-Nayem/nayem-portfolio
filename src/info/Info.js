@@ -78,7 +78,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Nayem Sarwar Chowdhury I'm highly motivated and passionate individual studying economics at Govt. Shaheed Suhrawardy College, Dhaka, Bangladesh. Along with my interest in economics, I have a strong passion for programming and I have developed expertise in languages such as Python, C, and C++.",
     skills:
         {
             proficientWith: ['C', 'C++', 'Python', 'MySQL', 'Django', 'Git', 'GitHub', 'HTML', 'CSS', 'Data Structure', 'Algorithums'],
