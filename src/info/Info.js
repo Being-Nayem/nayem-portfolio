@@ -23,10 +23,10 @@ of what each of the values mean.
  */
 
 export const info = {
-    firstName: "John",
-    lastName: "Smith",
+    firstName: "Nayem Sarwar",
+    lastName: "Chowdhury",
     initials: "js", // the example uses first and last, but feel free to use three or more if you like.
-    position: "a Full Stack Developer",
+    position: "a Backend Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
@@ -37,40 +37,40 @@ export const info = {
         },
         {
             emoji: '🌎',
-            text: 'based in the US'
+            text: 'based in the BD'
         },
-        {
-            emoji: "💼",
-            text: "Systems Engineer at Google"
-        },
+        // {
+        //     emoji: "💼",
+        //     text: "Systems Engineer at Google"
+        // },
         {
             emoji: "📧",
-            text: "johnsmith@gmail.com"
+            text: "nayemsarwar12345@gmail.com"
         }
     ],
     socials: [
         {
-            link: "https://facebook.com",
+            link: "https://www.facebook.com/beningNayem",
             icon: 'fa fa-facebook',
             label: 'facebook'
         },
         {
-            link: "https://instagram.com",
+            link: "https://www.instagram.com/being_nayem/",
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
         {
-            link: "https://github.com",
+            link: "https://github.com/Being-Nayem",
             icon: "fa fa-github",
             label: 'github'
         },
         {
-            link: "https://linkedin.com",
+            link: "https://www.linkedin.com/in/being-nayem/",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
         {
-            link: "https://twitter.com",
+            link: "https://twitter.com/Being_Nayem",
             icon: "fa fa-twitter",
             label: 'twitter'
         }
@@ -81,19 +81,19 @@ export const info = {
     bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator']
+            proficientWith: ['C', 'C++', 'Python', 'MySQL', 'Django', 'Git', 'GitHub', 'HTML', 'CSS', 'Data Structure', 'Algorithums'],
+            exposedTo: ['bootstrap', 'HTML', 'PostreSQL', 'Machine Learning']
         }
     ,
     hobbies: [
         {
-            label: 'reading',
-            emoji: '📖'
+            label: 'codding',
+            emoji: '💻'
         },
-        {
-            label: 'theater',
-            emoji: '🎭'
-        },
+        // {
+        //     label: 'theater',
+        //     emoji: '🎭'
+        // },
         {
             label: 'movies',
             emoji: '🎥'
