@@ -107,25 +107,25 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Project 1",
+            title: "Logeachi.com (Team Project)",
             live: "https://beingnayem.pythonanywhere.com", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             source: "https://github.com/Being-Nayem/logeachi.com", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
-            title: "Project 2",
+            title: "Cinema Hall Seat Booking",
             // live: "https://paytonpierce.dev",
             source: "https://github.com/Being-Nayem/Cinema-Hall-Seat-Booking-System",
             image: mock3
         },
         {
-            title: "Project 3",
+            title: "Restaurant Billing System",
             // live: "https://paytonpierce.dev",
             source: "https://github.com/Being-Nayem/Restaurant-Billing-System",
             image: mock2
         },
         {
-            title: "Project 4",
+            title: "Task Manager",
             // live: "https://paytonpierce.dev",
             source: "https://github.com/Being-Nayem/-Libary-Management",
             image: mock3
